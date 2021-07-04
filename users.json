@@ -16,5 +16,12 @@
 		"color": "green",
 		"material": "polyester",
 		"id": 2
+	},
+	{
+		"name": "CIM_Demo",
+		"color": "Blue",
+		"material": "QM",
+		"id": 3
 	}
+		
 ]
