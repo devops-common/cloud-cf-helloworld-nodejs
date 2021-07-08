@@ -16,5 +16,13 @@
 		"color": "green",
 		"material": "polyester",
 		"id": 2
+	},
+	{
+		"name": "Jeans",
+		"color": "Blue",
+		"material": "Denim",
+		"id": 4
 	}	
+
+
 ]
